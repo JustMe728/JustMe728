@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustMe728
+- 👋 Hi, I’m @JustMe728 Otherwise known as Missie.
 - 👀 I’m interested in finishing school.
 - 🌱 I’m currently learning Python next term.
 - 💞️ I’m looking to collaborate on how to do any of this...
