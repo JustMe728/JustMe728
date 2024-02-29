@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustMe728 Otherwise known as Missie.
 - 👀 I’m interested in finishing school.
-- 🌱 I’m currently learning Python next term.
+- 🌱 I’m currently have learned Python and am learning Java next term. 
 - 💞️ I’m looking to collaborate on how to do any of this...
 - 📫 How to reach me. Can we message here?
 
