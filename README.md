@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MWeeksCSStudent Otherwise known as Missie.
+- 👋 Hi, I’m @MWeeksQBT Otherwise known as Missie.
 - 👀 I’m interested in finishing school.
 - 🌱 I’m currently have learned Python, Java, MySQl, And starting C++ next term. 
 - 💞️ I’m looking to collaborate on how to do any of this...
